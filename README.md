@@ -4,7 +4,6 @@
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
 - [Technologies](#technologies)
-- [Getting Started](#getting-started)
 
 ## Introduction
 
