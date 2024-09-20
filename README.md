@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+# End-to-End-Data-Engineering-Pipeline-with-Random-User-Data
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -34,20 +34,4 @@ The project is designed with the following components:
 - PostgreSQL
 - Docker
 
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
-
-3. Run Docker Compose to spin up the services:
-    ```bash
-    docker-compose up
-    ```
 
